@@ -1,103 +1,99 @@
-# ⚡ Damas em Hogwarts - Torneio Tribruxo de Estratégia
+# ⚡ Damas em Hogwarts - O Torneio Mágico de Estratégia
 
-![Hogwarts Checkers Banner](C:\Users\Tauane\.gemini\antigravity\brain\476ed388-aeaf-4466-a5ce-ce2371f305f3\hogwarts_checkers_banner_1777043944011.png)
+![Hogwarts Checkers Banner](public/banner.png)
 
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow?style=for-the-badge)]()
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge" alt="Status" />
+</p>
 
-Bem-vindo ao Salão Principal! **Damas em Hogwarts** é uma reinterpretação mágica do clássico jogo de damas, transportando os jogadores para o universo bruxo com uma interface premium, imersiva e cheia de detalhes.
-
----
-
-## 🔮 Visão Geral
-
-Prepare sua varinha e sua mente. Escolha sua casa, decida seu oponente e prove que você é o bruxo mais estrategista de Hogwarts. Com um design inspirado nos filmes de Harry Potter, o jogo oferece uma experiência visual rica com animações, efeitos de vidro (glassmorphism) e brasões autênticos.
-
-### 🎥 Demonstração
-*(Espaço para GIF ou Screenshot do Jogo)*
+Bem-vindo ao **Salão Principal**! Este não é um jogo de damas comum. **Damas em Hogwarts** é uma experiência imersiva que transporta o clássico jogo de tabuleiro para o universo de Harry Potter, combinando estratégia profunda com a magia de Hogwarts.
 
 ---
 
-## ✨ Funcionalidades Mágicas
+## 🔮 O Jogo
 
-- **🧙‍♂️ Modos de Jogo**:
-  - **Duelo contra o Ministério (Solo)**: Enfrente uma inteligência artificial que busca a vitória a qualquer custo.
-  - **Torneio entre Casas (Duo Local)**: Jogue contra um amigo no mesmo dispositivo.
-- **🏰 Seleção de Casas**: Escolha entre as 4 lendárias casas (Gryffindor, Slytherin, Ravenclaw, Hufflepuff), cada uma com sua identidade visual única.
-- **⚡ O Pomo de Ouro**: Ao atingir a última fileira, sua peça é promovida a **Rei (Dama)** e assume a forma do lendário Pomo de Ouro, ganhando movimentos de longo alcance.
-- **🎨 Design Imersivo**:
-  - Tabuleiro de madeira escura envelhecida com texturas realistas.
-  - Efeitos de brilho mágico (Glow) e sombras dinâmicas.
-  - Glassmorphism em menus e painéis de controle.
-  - Tipografia clássica (`Cinzel`) para uma sensação de "mundo antigo".
+Prepare sua varinha (ou mouse) e sua mente. Escolha sua casa, selecione seu oponente e prove que sua estratégia é digna de um Diretor de Hogwarts. Com um design inspirado na estética bruxa, o jogo oferece uma interface premium com efeitos de glassmorphism, animações fluidas e uma atmosfera mágica constante.
 
----
+### ✨ Funcionalidades Principais
 
-## 📜 Regras do Duelo
-
-O jogo segue as regras básicas de damas, mas com um toque de liberdade bruxa:
-
-1. **Início**: O jogador da casa selecionada como Player 1 inicia o duelo.
-2. **Movimento**: Peças normais movem-se 1 casa diagonalmente para frente.
-3. **Captura**: Salte sobre uma peça do oponente para capturá-la.
-4. **Captura Não-Obrigatória**: Diferente das regras tradicionais rígidas, aqui você tem a liberdade estratégica de escolher se deseja capturar ou não.
-5. **Promoção (Pomo de Ouro)**: Peças que chegam ao fim do tabuleiro tornam-se Reis. Elas podem se mover qualquer distância em qualquer direção diagonal.
+- **🧙‍♂️ Modos de Duelo**:
+  - **Duelo contra a I.A.**: Enfrente a inteligência artificial treinada pelo Ministério da Magia.
+  - **Duelo Local (PvP)**: Desafie um amigo para um duelo presencial no mesmo dispositivo.
+- **🏰 Seleção de Casas**: Represente **Gryffindor, Slytherin, Ravenclaw ou Hufflepuff**. Cada escolha altera a estética visual das suas peças.
+- **⚡ O Pomo de Ouro**: Ao atingir a última fileira, sua peça é promovida a **Rei (Dama)** e assume a forma do Pomo de Ouro, ganhando liberdade total de movimento diagonal.
+- **🎨 Estética Premium**:
+  - Tabuleiro de madeira envelhecida com texturas realistas.
+  - Efeitos de brilho (Glow) e partículas mágicas.
+  - Tipografia clássica e interface responsiva para todos os dispositivos.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 📜 Regras do Duelo (Regras Brasileiras)
 
-Este projeto foi forjado com as tecnologias mais poderosas do mundo front-end:
+O jogo segue as regras oficiais da **Confederação Brasileira de Damas**, aplicadas com precisão mágica:
 
-- **React 19** - Estrutura de componentes dinâmica.
-- **Vite 8** - Bundler ultra-rápido para desenvolvimento ágil.
-- **TypeScript** - Tipagem estrita para evitar maldições e bugs.
-- **Vanilla CSS** - Estilização artesanal de alta performance.
+1.  **Movimento**: Peças comuns movem-se apenas uma casa para frente nas diagonais.
+2.  **Captura**: É possível capturar peças tanto para frente quanto para trás.
+3.  **Lei da Maioria**: Se houver mais de um caminho de captura disponível, você é **obrigado** a escolher o caminho que captura o maior número de peças (Regra de Ouro do Duelo).
+4.  **O Pomo de Ouro (Dama)**: Possui movimento de longo alcance, podendo saltar várias casas em qualquer direção diagonal.
 
 ---
 
-## 📂 Estrutura do Projeto
+## 🛠️ Forja Tecnológica
+
+Este projeto foi construído utilizando as ferramentas mais modernas do mundo "Muggle":
+
+- **React 19**: Interface reativa e componentes modulares.
+- **Vite**: Velocidade de carregamento instantânea.
+- **TypeScript**: Segurança de tipos para evitar maldições no código.
+- **Vanilla CSS**: Estilização artesanal, sem bibliotecas de utilitários, garantindo total controle visual.
+
+---
+
+## 🚀 Como Iniciar o Torneio
+
+Siga estes passos para rodar o projeto localmente:
+
+1.  **Clone o Repositório**:
+    ```bash
+    git clone https://github.com/TauaneAlessandra/damas-em-hogwarts.git
+    ```
+2.  **Entre na Pasta**:
+    ```bash
+    cd damas-em-hogwarts
+    ```
+3.  **Instale as Dependências**:
+    ```bash
+    npm install
+    ```
+4.  **Inicie a Magia**:
+    ```bash
+    npm run dev
+    ```
+
+---
+
+## 📁 Estrutura de Arquivos
 
 ```text
 src/
-├── assets/         # Imagens, brasões e ícones mágicos
-├── components/     # Componentes React (Board, Piece, UI)
-├── hooks/          # Hooks personalizados para lógica de estado
-├── logic/          # O "Cérebro" do jogo (movimentação, IA, regras)
-├── styles/         # CSS modular e variáveis globais
-└── types/          # Definições de tipos TypeScript
+├── components/     # Componentes visuais do jogo e interface
+├── hooks/          # Lógica de estado e efeitos mágicos
+├── logic/          # Regras oficiais de damas e lógica de IA
+├── styles/         # Variáveis CSS e temas das casas
+└── types/          # Definições de tipos para TypeScript
 ```
 
 ---
 
-## 🚀 Como Executar o Feitiço
+## 🛡️ Créditos
 
-Para rodar o jogo localmente em seu caldeirão:
-
-1. **Clone o repositório**:
-   ```bash
-   git clone https://seu-repositorio.com/dama.git
-   ```
-2. **Instale as dependências**:
-   ```bash
-   npm install
-   ```
-3. **Inicie o servidor de desenvolvimento**:
-   ```bash
-   npm run dev
-   ```
-4. **Acesse no navegador**:
-   Geralmente disponível em [http://localhost:5173/](http://localhost:5173/)
-
----
-
-## 🛡️ Créditos & Citações
-
-Desenvolvido com carinho e magia.
+Desenvolvido por **Tauane Alessandra**.
 
 > "São as nossas escolhas que revelam quem realmente somos, muito mais do que as nossas qualidades." — *Alvo Dumbledore*
 
 ---
-✨ *Que a sorte esteja sempre a seu favor no tabuleiro de Hogwarts!*
+<p align="center">✨ <i>Mala feita, varinha pronta. Que vença o melhor bruxo!</i> ✨</p>
