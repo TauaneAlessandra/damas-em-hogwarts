@@ -21,7 +21,7 @@ Prepare sua varinha (ou mouse) e sua mente. Escolha sua casa, selecione seu opon
 
 - **🧙‍♂️ Modos de Duelo**:
   - **Duelo contra a I.A.**: Enfrente a inteligência artificial treinada pelo Ministério da Magia.
-  - **Duelo Local (PvP)**: Desafie um amigo para um duelo presencial no mesmo dispositivo.
+  - **Duelo Local (PvP)**: Desafie um amigo para um duelo presencial no mesmo dispositivo. 
 - **🏰 Seleção de Casas**: Represente **Gryffindor, Slytherin, Ravenclaw ou Hufflepuff**. Cada escolha altera a estética visual das suas peças.
 - **⚡ O Pombo de Ouro**: Ao atingir a última fileira, sua peça é promovida a **Rei (Dama)** e assume a forma do Pombo de Ouro, ganhando liberdade total de movimento diagonal.
 - **🎨 Estética Premium**:
